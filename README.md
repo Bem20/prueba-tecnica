@@ -48,7 +48,7 @@ Base de datos: prueba_tecnica
 
 Usuario: postgres
 
-Password: postgres (ajustar según instalación local)
+Password: 1234
 
 La conexión se realiza usando DriverManager y PreparedStatement.
 
